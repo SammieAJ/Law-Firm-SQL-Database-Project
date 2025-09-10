@@ -1,0 +1,401 @@
+CaseID,ClientID,CaseTitle,Status,CourtDate,LawyerID
+101,54,Case 101 - vs Lyons Group,Closed,2026-08-01,213
+102,55,Case 102 - Filing against Landry-Wall,Open,2025-01-16,203
+103,73,Case 103 - vs Garcia-Lopez,Pending,2024-02-08,241
+104,100,"Case 104 - Filing against Nash, Bradford and Stephens",Closed,2024-09-20,245
+105,39,Case 105 - vs Parsons-Mccoy,Closed,2025-04-18,233
+106,159,Case 106 - Dispute with Reed Group,Pending,2026-01-28,245
+107,232,Case 107 - vs Kaiser-Bowman,Open,2025-12-07,245
+108,4,"Case 108 - vs Chapman, Harrington and Solomon",Pending,2025-12-24,245
+109,63,Case 109 - Filing against Thomas Ltd,Closed,2026-09-07,212
+110,142,Case 110 - vs Manning-Moore,Pending,2026-04-30,206
+111,227,"Case 111 - vs Peters, Lindsey and Delacruz",Closed,2024-12-02,224
+112,159,Case 112 - Dispute with Henderson Ltd,Pending,2024-11-23,208
+113,222,Case 113 - Dispute with Santos-Grant,Pending,2024-11-17,249
+114,52,"Case 114 - Filing against Herrera, Scott and Fox",Closed,2025-02-05,226
+115,107,Case 115 - Filing against Lewis LLC,Closed,2025-12-08,217
+116,73,Case 116 - vs Meyer Ltd,Closed,2026-07-01,239
+117,192,Case 117 - Dispute with Hansen-Miller,Pending,2025-10-30,233
+118,50,Case 118 - vs Tran-Lawrence,Open,2023-10-05,231
+119,78,"Case 119 - Dispute with Cooper, Foster and Bass",Pending,2025-02-21,215
+120,240,"Case 120 - Filing against King, Kelly and Crawford",Closed,2025-01-03,225
+121,79,"Case 121 - vs Leach, White and Andrews",Open,2024-11-12,217
+122,45,Case 122 - vs Bridges-Boyd,Pending,2025-07-04,237
+123,69,Case 123 - Filing against Bryant-Holloway,Open,2023-10-24,234
+124,164,Case 124 - Dispute with Lambert-Reynolds,Closed,2024-09-05,249
+125,149,"Case 125 - vs Taylor, Burgess and Andrews",Open,2026-08-27,206
+126,150,"Case 126 - vs Berry, Drake and Morales",Closed,2024-05-13,216
+127,208,"Case 127 - Filing against Collins, Christian and Santana",Open,2024-11-28,242
+128,95,Case 128 - vs Johnson Group,Open,2025-01-05,207
+129,27,"Case 129 - Filing against Hudson, Hawkins and Schmitt",Open,2024-07-21,250
+130,40,"Case 130 - Dispute with Reeves, Graham and Smith",Open,2025-04-29,245
+131,230,"Case 131 - vs Hicks, Rogers and Ford",Closed,2024-12-14,222
+132,180,Case 132 - Dispute with Lee-Velasquez,Closed,2025-08-03,238
+133,150,Case 133 - vs Mcknight-Fernandez,Open,2025-04-05,243
+134,2,"Case 134 - vs Patterson, Hunter and Hodge",Open,2026-03-17,221
+135,87,"Case 135 - Filing against Sherman, Schneider and Jones",Pending,2026-07-07,231
+136,115,"Case 136 - vs Douglas, Rojas and Pugh",Open,2023-11-25,228
+137,181,Case 137 - Dispute with Stewart-Martin,Closed,2024-09-26,226
+138,163,Case 138 - vs Jackson-Peterson,Closed,2023-11-01,223
+139,58,Case 139 - Filing against Turner Group,Pending,2024-03-13,208
+140,230,Case 140 - Dispute with White-Spears,Open,2026-02-01,232
+141,35,"Case 141 - Filing against Sharp, Sanchez and Figueroa",Pending,2024-08-08,209
+142,32,Case 142 - Filing against Davis LLC,Closed,2024-05-31,247
+143,8,Case 143 - Dispute with Jackson and Sons,Open,2026-06-23,247
+144,41,"Case 144 - Dispute with Sullivan, Bush and Johnson",Pending,2025-06-22,236
+145,188,"Case 145 - Filing against Marquez, Martinez and Curry",Closed,2024-12-08,232
+146,195,Case 146 - vs Cabrera-Henry,Open,2025-03-13,247
+147,248,Case 147 - Filing against Yang Ltd,Open,2026-07-07,210
+148,64,Case 148 - Filing against Miller Group,Pending,2023-12-31,216
+149,126,Case 149 - vs Davis Inc,Pending,2026-02-28,205
+150,247,Case 150 - Dispute with Ramirez-Johnson,Open,2023-12-30,225
+151,75,Case 151 - vs Wiley-Estrada,Open,2023-12-28,216
+152,183,Case 152 - Filing against Young LLC,Open,2025-11-10,232
+153,27,Case 153 - Filing against Price Group,Pending,2024-12-29,228
+154,89,Case 154 - Dispute with Taylor-Collier,Open,2024-01-14,209
+155,47,"Case 155 - vs Gamble, Castillo and Walter",Open,2024-02-27,220
+156,190,"Case 156 - vs Martinez, Wilson and Gardner",Pending,2025-03-01,203
+157,152,Case 157 - Filing against Whitney Ltd,Open,2024-01-30,206
+158,224,"Case 158 - vs Salazar, Hayes and Cox",Pending,2025-04-22,226
+159,143,Case 159 - Dispute with Martinez-Harrington,Closed,2023-09-29,210
+160,41,Case 160 - Filing against Reyes Group,Open,2026-06-24,208
+161,36,Case 161 - vs Parsons-Gonzales,Open,2024-05-22,224
+162,196,Case 162 - Filing against Rojas Ltd,Closed,2024-08-22,239
+163,81,Case 163 - Filing against Clark-Taylor,Pending,2024-04-27,242
+164,239,Case 164 - Dispute with Hammond-Garcia,Closed,2026-04-09,245
+165,198,Case 165 - Dispute with Hubbard Group,Open,2024-10-08,221
+166,76,"Case 166 - Filing against Olson, Stewart and Lee",Pending,2024-07-18,229
+167,93,Case 167 - vs Bush LLC,Closed,2024-05-02,213
+168,62,Case 168 - Dispute with Garza-Wilson,Pending,2025-04-28,225
+169,143,Case 169 - vs Wilcox PLC,Open,2024-01-09,217
+170,198,Case 170 - Filing against Roberts-Sullivan,Closed,2026-01-02,239
+171,114,Case 171 - Dispute with Martin-Alexander,Pending,2026-03-12,207
+172,139,Case 172 - vs Atkins-Moore,Open,2025-10-07,245
+173,10,Case 173 - Filing against Hodges PLC,Pending,2024-02-17,205
+174,218,Case 174 - Filing against Reynolds Inc,Open,2025-09-11,209
+175,162,Case 175 - Filing against Vance-Cobb,Closed,2025-09-18,245
+176,196,"Case 176 - vs Edwards, Reyes and Gutierrez",Closed,2023-12-18,241
+177,65,"Case 177 - vs Taylor, Estrada and Taylor",Closed,2026-03-03,235
+178,189,Case 178 - Filing against George-Rivera,Pending,2026-08-03,242
+179,195,Case 179 - Filing against Dominguez LLC,Open,2025-09-26,247
+180,3,Case 180 - Dispute with Williamson Group,Open,2025-09-25,204
+181,208,Case 181 - Filing against May Ltd,Open,2024-07-23,215
+182,178,"Case 182 - vs Stephenson, Davis and Smith",Pending,2026-07-20,227
+183,43,"Case 183 - vs Ochoa, Jones and Davis",Open,2025-03-24,233
+184,43,Case 184 - vs Hess Ltd,Open,2024-11-03,248
+185,110,"Case 185 - vs Reed, Clark and Wright",Open,2026-08-14,224
+186,246,Case 186 - Dispute with Bridges Inc,Closed,2024-10-30,213
+187,90,Case 187 - vs Garcia Inc,Closed,2026-05-12,250
+188,64,Case 188 - vs Tapia Inc,Pending,2025-04-01,201
+189,244,Case 189 - Dispute with Wilson-Johnson,Pending,2025-03-16,209
+190,131,Case 190 - Dispute with Perry PLC,Open,2026-06-20,248
+191,85,"Case 191 - vs Torres, Sweeney and Howard",Open,2025-10-09,208
+192,97,"Case 192 - Filing against Garcia, Little and Tucker",Open,2024-01-24,214
+193,212,Case 193 - Filing against Robinson and Sons,Closed,2024-04-14,218
+194,241,Case 194 - vs Hoffman-Wright,Pending,2026-07-18,244
+195,176,Case 195 - Filing against Torres-Mullins,Open,2023-12-13,219
+196,149,Case 196 - Dispute with Evans Ltd,Closed,2026-03-03,248
+197,206,Case 197 - Filing against Guerra-Glass,Pending,2025-07-22,238
+198,191,Case 198 - Filing against Nelson Group,Closed,2025-08-12,219
+199,176,Case 199 - vs Hernandez-Morales,Closed,2025-08-19,248
+200,17,Case 200 - vs Smith-Castillo,Open,2025-01-20,242
+201,79,Case 201 - Dispute with Robinson-Waters,Pending,2025-06-21,204
+202,102,Case 202 - Dispute with Mcgee Ltd,Pending,2025-06-13,250
+203,61,"Case 203 - Filing against Jones, Gomez and Vance",Closed,2025-07-06,205
+204,104,Case 204 - vs Grimes Group,Pending,2025-09-10,246
+205,12,Case 205 - Filing against Gonzalez-White,Pending,2024-10-03,202
+206,123,"Case 206 - vs Morales, Fitzpatrick and Long",Open,2023-10-21,238
+207,122,"Case 207 - Filing against Combs, Alvarez and Scott",Pending,2025-12-01,202
+208,192,Case 208 - Filing against Jackson-Richards,Open,2025-05-15,237
+209,221,"Case 209 - Dispute with Davis, Cortez and Edwards",Closed,2024-12-01,249
+210,83,Case 210 - Filing against Fitzpatrick PLC,Closed,2026-03-28,250
+211,37,Case 211 - Filing against Bradley-Gould,Open,2024-01-13,248
+212,4,"Case 212 - Dispute with Barnes, Velez and Cline",Open,2026-07-25,244
+213,136,Case 213 - vs Arellano and Sons,Pending,2024-02-26,230
+214,63,Case 214 - Dispute with Khan-Dennis,Closed,2024-08-11,241
+215,17,"Case 215 - Filing against Jones, Elliott and Franklin",Pending,2024-01-11,223
+216,201,"Case 216 - Dispute with Green, Villanueva and Montoya",Closed,2024-02-09,246
+217,186,"Case 217 - Filing against Brown, Ortiz and Thompson",Pending,2025-06-06,205
+218,212,"Case 218 - vs Fitzgerald, Wilkins and Evans",Pending,2025-03-13,246
+219,70,"Case 219 - Dispute with Fritz, Coleman and Johnson",Open,2023-11-13,232
+220,245,Case 220 - Filing against Wright-Le,Open,2023-12-24,237
+221,75,"Case 221 - Dispute with Walker, Santana and Contreras",Pending,2023-10-06,201
+222,152,Case 222 - vs Perry-May,Open,2026-08-14,218
+223,3,Case 223 - Dispute with Henderson-Johnston,Open,2024-03-19,228
+224,165,Case 224 - Dispute with James LLC,Pending,2024-11-28,242
+225,135,Case 225 - Dispute with Espinoza LLC,Pending,2023-09-18,224
+226,68,Case 226 - vs Jones-Taylor,Closed,2025-01-02,224
+227,12,Case 227 - Filing against Carson Group,Closed,2026-08-09,211
+228,226,Case 228 - Filing against Palmer LLC,Open,2025-11-04,231
+229,193,"Case 229 - Filing against Smith, Herrera and Wells",Pending,2024-07-28,207
+230,50,Case 230 - vs Wood-Sanders,Open,2025-08-16,203
+231,43,"Case 231 - Filing against Scott, Bowers and Anderson",Open,2024-10-13,243
+232,92,"Case 232 - vs Mclean, Gilbert and Jones",Pending,2024-10-23,219
+233,218,Case 233 - Filing against Lee LLC,Closed,2026-04-08,233
+234,5,"Case 234 - Dispute with Cannon, Fisher and Jackson",Pending,2025-06-03,212
+235,71,Case 235 - Filing against Richardson Inc,Closed,2026-07-18,249
+236,203,Case 236 - Dispute with Ward and Sons,Open,2026-03-02,224
+237,211,"Case 237 - vs Walsh, Anderson and Campbell",Pending,2026-06-15,232
+238,70,Case 238 - Filing against Miller-Harris,Closed,2026-07-14,213
+239,237,"Case 239 - vs Moore, Greer and Mccormick",Pending,2026-03-27,208
+240,168,Case 240 - vs Wallace-Gordon,Closed,2026-07-10,201
+241,199,Case 241 - Dispute with Ortiz Inc,Open,2025-09-29,219
+242,153,"Case 242 - Dispute with Jones, Wolfe and Ramirez",Closed,2024-02-04,214
+243,23,"Case 243 - vs Shaffer, Fleming and Williams",Open,2024-03-07,242
+244,162,Case 244 - vs Martinez-Hanson,Open,2025-05-30,211
+245,80,Case 245 - vs Williams-Simpson,Open,2024-12-31,208
+246,238,Case 246 - vs Short-Cole,Open,2024-01-16,247
+247,194,Case 247 - Dispute with Larsen PLC,Pending,2025-02-08,208
+248,238,"Case 248 - vs Torres, Page and Boyd",Closed,2025-08-29,202
+249,80,Case 249 - vs Jones-Chambers,Pending,2024-12-10,244
+250,84,"Case 250 - Dispute with Lee, Fisher and James",Open,2023-12-18,214
+251,247,Case 251 - Dispute with Larson Ltd,Closed,2024-09-25,232
+252,88,Case 252 - vs Foster Inc,Pending,2025-05-18,215
+253,93,Case 253 - Filing against Griffin-Mejia,Pending,2025-03-14,202
+254,234,"Case 254 - Filing against Smith, Morgan and Hernandez",Open,2024-05-04,217
+255,187,Case 255 - Dispute with Carr-Bailey,Open,2025-10-12,243
+256,19,Case 256 - vs Whitaker-Kennedy,Pending,2026-06-09,233
+257,42,Case 257 - Filing against King-Brown,Closed,2024-10-08,232
+258,87,Case 258 - Filing against Kaufman-Williams,Pending,2023-11-29,205
+259,114,Case 259 - Dispute with Mullins Inc,Closed,2025-05-04,209
+260,121,Case 260 - Filing against Sanchez-Vaughn,Pending,2026-02-15,207
+261,157,Case 261 - Filing against Williams and Sons,Open,2024-10-09,215
+262,36,Case 262 - Dispute with Gomez-Wells,Open,2026-04-05,217
+263,87,Case 263 - Filing against Miller-Romero,Pending,2026-09-05,248
+264,18,Case 264 - Dispute with English-Perkins,Open,2023-11-01,227
+265,7,Case 265 - vs Lopez-Miller,Closed,2025-04-17,241
+266,131,Case 266 - Dispute with Williams-Castro,Pending,2024-12-02,240
+267,42,Case 267 - Filing against Scott LLC,Pending,2024-05-26,209
+268,233,Case 268 - Filing against Rosales Inc,Pending,2025-03-03,226
+269,84,"Case 269 - vs Mendez, Baker and Sexton",Closed,2025-01-14,217
+270,222,"Case 270 - Dispute with Mason, Adams and Johnson",Closed,2025-03-20,207
+271,214,"Case 271 - vs Downs, Wade and Adams",Open,2026-02-15,225
+272,115,Case 272 - Dispute with Sanchez-Ballard,Closed,2024-09-22,244
+273,236,Case 273 - vs Davis-Clark,Open,2026-08-20,246
+274,87,Case 274 - Filing against Smith Group,Pending,2025-06-22,211
+275,2,Case 275 - Filing against Harris and Sons,Pending,2025-05-15,240
+276,118,Case 276 - vs Cervantes-Daniels,Open,2023-11-03,230
+277,239,Case 277 - Dispute with Marshall-Franklin,Closed,2024-08-24,229
+278,51,Case 278 - Filing against Black LLC,Pending,2023-10-27,238
+279,18,Case 279 - Dispute with Walker Group,Pending,2024-03-04,219
+280,104,Case 280 - vs Vazquez-Stout,Open,2026-05-17,236
+281,95,Case 281 - vs Cox-Hall,Pending,2026-09-01,241
+282,126,Case 282 - Filing against Diaz LLC,Closed,2023-11-11,236
+283,208,"Case 283 - Filing against Johnson, Villa and Long",Closed,2023-10-26,206
+284,141,Case 284 - vs Knight LLC,Open,2026-06-12,214
+285,15,"Case 285 - vs Ortiz, Martin and Velasquez",Open,2026-06-22,230
+286,231,Case 286 - Filing against Cortez and Sons,Pending,2026-09-04,234
+287,47,Case 287 - Dispute with Harris-Jones,Closed,2025-08-08,234
+288,137,"Case 288 - Filing against Holt, Wells and Williams",Pending,2024-03-23,249
+289,194,Case 289 - Dispute with Martin-Hampton,Closed,2025-09-01,237
+290,249,Case 290 - vs Estrada Group,Pending,2025-01-24,207
+291,66,"Case 291 - Dispute with Parker, Black and Newman",Open,2024-02-29,242
+292,197,"Case 292 - Filing against Henson, Henry and Alexander",Open,2024-07-12,219
+293,69,Case 293 - vs Lynch PLC,Closed,2025-04-05,227
+294,141,Case 294 - vs Cameron and Sons,Closed,2025-09-25,224
+295,21,"Case 295 - Filing against Weaver, Ward and Guzman",Closed,2026-04-25,228
+296,97,Case 296 - Filing against Lang-Lowery,Open,2024-12-27,250
+297,246,Case 297 - vs Herrera-Schaefer,Closed,2025-07-10,232
+298,99,Case 298 - Filing against Atkins Ltd,Open,2024-10-13,227
+299,26,"Case 299 - Filing against Jones, Diaz and Cameron",Pending,2023-10-22,231
+300,113,Case 300 - Filing against Thomas PLC,Pending,2024-11-06,207
+301,232,Case 301 - Dispute with Martin Inc,Pending,2024-12-21,248
+302,16,Case 302 - Dispute with Rosario-Savage,Closed,2024-07-31,243
+303,9,"Case 303 - Dispute with Yates, Farmer and Wolf",Open,2024-08-03,203
+304,5,Case 304 - Filing against Wilson-Lopez,Closed,2026-03-08,243
+305,107,Case 305 - Filing against Tucker-Perez,Open,2025-08-25,228
+306,15,"Case 306 - Filing against Schmitt, Hampton and Johnson",Closed,2025-07-28,236
+307,204,Case 307 - Filing against Hayes Group,Closed,2026-06-11,243
+308,13,"Case 308 - Dispute with Schwartz, Smith and Anderson",Closed,2024-07-22,245
+309,237,Case 309 - vs Vargas Inc,Pending,2024-05-19,240
+310,134,Case 310 - Filing against Ward-Bartlett,Open,2025-06-19,232
+311,103,"Case 311 - Filing against Davis, Taylor and Boyd",Pending,2025-02-19,208
+312,182,Case 312 - Filing against Day Ltd,Open,2024-03-20,228
+313,155,Case 313 - Dispute with Pope-Hernandez,Closed,2023-12-03,225
+314,58,Case 314 - Dispute with Ingram-Velez,Closed,2024-10-14,204
+315,22,Case 315 - Filing against Russell Ltd,Pending,2025-06-07,219
+316,2,Case 316 - Filing against Delgado-Cohen,Closed,2025-05-01,230
+317,209,Case 317 - vs Jones-Kim,Open,2026-01-06,207
+318,134,Case 318 - Dispute with Pierce PLC,Open,2023-11-18,247
+319,250,Case 319 - Filing against Dougherty PLC,Open,2026-07-11,201
+320,87,Case 320 - Filing against Blanchard and Sons,Pending,2025-04-15,204
+321,205,"Case 321 - vs Watkins, Terry and Hancock",Pending,2025-02-02,248
+322,171,"Case 322 - Dispute with Cummings, Dunn and Martin",Pending,2024-10-05,244
+323,209,Case 323 - Dispute with Franco and Sons,Pending,2025-01-28,248
+324,206,Case 324 - vs Brooks-Lee,Closed,2026-06-06,221
+325,165,Case 325 - vs Berry-Reilly,Open,2025-01-12,214
+326,104,Case 326 - Dispute with Cardenas-Morris,Closed,2024-12-27,228
+327,164,Case 327 - Dispute with Parsons-Wyatt,Pending,2024-03-14,246
+328,180,Case 328 - Dispute with Howard-Martin,Pending,2023-10-30,219
+329,68,Case 329 - Dispute with Smith LLC,Closed,2025-03-14,224
+330,229,"Case 330 - vs Chang, Jacobs and Galvan",Closed,2025-08-06,233
+331,149,Case 331 - Filing against Marshall LLC,Pending,2025-09-07,229
+332,100,Case 332 - Dispute with Graves-Hoover,Open,2025-01-28,203
+333,190,Case 333 - Filing against Ellis-Cook,Pending,2026-02-06,234
+334,184,"Case 334 - Dispute with Conner, Lopez and Roberts",Open,2026-01-07,214
+335,40,"Case 335 - vs Roberts, Gallagher and Williams",Pending,2026-01-27,212
+336,93,Case 336 - Filing against Lopez-Lawrence,Open,2024-07-21,238
+337,218,Case 337 - vs Paul and Sons,Pending,2024-02-11,205
+338,172,Case 338 - Dispute with Williams PLC,Pending,2024-10-13,233
+339,37,Case 339 - vs Schneider Inc,Closed,2025-12-28,215
+340,235,"Case 340 - Filing against Jones, Livingston and Morris",Open,2026-06-28,235
+341,241,"Case 341 - vs Wade, Nguyen and Macias",Closed,2024-11-13,230
+342,130,Case 342 - vs Brown and Sons,Pending,2025-07-25,220
+343,31,Case 343 - Filing against Hansen-George,Pending,2023-10-08,231
+344,126,Case 344 - Filing against Turner Inc,Pending,2025-07-21,208
+345,135,Case 345 - Dispute with Heath-Daniel,Pending,2025-07-04,246
+346,44,"Case 346 - Dispute with Jimenez, Lee and Moore",Closed,2025-01-06,228
+347,95,Case 347 - vs Nielsen-Jackson,Pending,2025-11-30,206
+348,215,Case 348 - Dispute with Montes and Sons,Closed,2026-08-08,226
+349,198,Case 349 - Dispute with Oliver Ltd,Closed,2024-07-30,211
+350,31,"Case 350 - vs West, Johns and Gomez",Open,2024-11-04,238
+351,25,Case 351 - Filing against Boone-Barrett,Open,2026-08-21,228
+352,121,Case 352 - vs Deleon-Ray,Open,2023-11-29,220
+353,63,Case 353 - Dispute with Watkins-Smith,Closed,2025-01-08,204
+354,204,Case 354 - vs Perez-Campbell,Pending,2024-08-13,236
+355,212,"Case 355 - Dispute with Lynch, Johnson and Miller",Pending,2026-09-09,216
+356,84,"Case 356 - Dispute with Hardy, Taylor and Lee",Open,2025-07-25,242
+357,102,"Case 357 - Filing against Andrade, Hayden and Ferrell",Pending,2026-01-14,220
+358,223,Case 358 - vs Lowe Ltd,Open,2025-08-21,227
+359,165,"Case 359 - Filing against Obrien, Brock and Cox",Open,2023-10-20,223
+360,26,Case 360 - Dispute with Vance-Schaefer,Open,2025-03-19,239
+361,32,"Case 361 - vs Roth, Mullins and Carney",Pending,2024-10-29,236
+362,50,Case 362 - Filing against Barr-Meyer,Pending,2023-12-18,207
+363,23,Case 363 - Dispute with King-Stokes,Pending,2024-05-08,225
+364,119,Case 364 - vs Harris-Scott,Pending,2025-03-24,220
+365,177,Case 365 - Filing against Harrell-Smith,Pending,2023-12-21,211
+366,176,Case 366 - Dispute with Williams-Lamb,Pending,2025-06-17,218
+367,117,Case 367 - Dispute with Gonzalez Ltd,Open,2024-05-03,204
+368,64,Case 368 - Filing against Cruz Group,Pending,2026-03-09,219
+369,23,Case 369 - vs Mitchell Inc,Open,2024-05-17,212
+370,212,Case 370 - Dispute with Chavez and Sons,Open,2024-03-01,231
+371,196,Case 371 - Dispute with Medina-Martin,Pending,2024-02-08,204
+372,199,"Case 372 - vs Riley, Kirby and Young",Closed,2026-03-01,225
+373,102,"Case 373 - Filing against Morris, Vasquez and Allen",Open,2026-04-23,216
+374,204,Case 374 - Dispute with Fisher-Robinson,Closed,2024-03-02,241
+375,161,Case 375 - Dispute with Welch LLC,Pending,2025-06-14,233
+376,58,Case 376 - vs Russell-Nguyen,Pending,2024-04-25,207
+377,163,"Case 377 - Filing against Alexander, Freeman and Jackson",Open,2024-06-17,217
+378,211,Case 378 - Filing against Maddox-Gonzalez,Open,2023-12-01,237
+379,232,"Case 379 - vs Leonard, Wise and Mercer",Pending,2024-10-15,220
+380,30,"Case 380 - vs White, Davies and White",Pending,2025-11-25,237
+381,67,Case 381 - vs Brown Ltd,Closed,2023-10-19,216
+382,129,Case 382 - Filing against Santana LLC,Open,2026-03-03,202
+383,99,"Case 383 - Dispute with Jackson, Watson and Cochran",Open,2025-08-15,227
+384,107,Case 384 - vs Reese PLC,Pending,2023-11-09,209
+385,194,"Case 385 - Dispute with Smith, Boone and Ramirez",Open,2024-02-03,235
+386,212,Case 386 - vs White-Smith,Closed,2024-03-11,240
+387,18,"Case 387 - Filing against Collins, Salazar and Little",Open,2023-10-10,238
+388,199,Case 388 - Dispute with Stone-Roman,Pending,2025-07-24,248
+389,114,"Case 389 - Dispute with Walker, Caldwell and Barker",Pending,2025-12-15,206
+390,12,Case 390 - vs Fitzpatrick LLC,Pending,2025-01-10,221
+391,183,Case 391 - Dispute with Anderson-Smith,Open,2026-05-03,227
+392,233,Case 392 - vs Peterson-Ellison,Pending,2026-06-23,227
+393,211,Case 393 - vs Martinez-Smith,Open,2024-12-19,237
+394,65,Case 394 - Dispute with Harrison-Aguirre,Open,2026-04-25,244
+395,189,Case 395 - Dispute with Fuller and Sons,Open,2023-12-14,206
+396,211,Case 396 - Filing against Odonnell-Graham,Open,2026-02-04,241
+397,211,Case 397 - Filing against Hudson Inc,Open,2025-08-15,219
+398,160,Case 398 - Filing against Hernandez-Anderson,Open,2025-10-08,227
+399,45,Case 399 - Dispute with Townsend and Sons,Open,2024-11-24,207
+400,204,Case 400 - vs Bennett-Woods,Pending,2025-03-08,219
+401,100,Case 401 - Dispute with Young Group,Open,2024-11-18,236
+402,241,"Case 402 - vs Mccarty, Hansen and Johns",Open,2024-04-21,215
+403,170,Case 403 - Filing against Cordova Group,Open,2024-01-27,230
+404,7,Case 404 - Filing against Williams-Strong,Open,2024-03-07,218
+405,44,Case 405 - vs Mcgee Inc,Open,2024-07-21,212
+406,202,Case 406 - Dispute with Mills Ltd,Pending,2023-10-29,240
+407,85,"Case 407 - Filing against Johnson, Stevens and Thornton",Closed,2024-03-19,244
+408,207,Case 408 - vs Williams and Sons,Closed,2025-01-21,250
+409,104,Case 409 - Filing against Richards LLC,Open,2024-12-22,211
+410,149,"Case 410 - Filing against Thomas, Crawford and Mccarthy",Pending,2025-02-06,203
+411,250,Case 411 - Filing against Copeland and Sons,Closed,2024-06-03,216
+412,74,Case 412 - vs Tanner-Friedman,Open,2023-12-01,231
+413,72,Case 413 - vs Benton-Taylor,Closed,2024-09-28,207
+414,82,Case 414 - Dispute with Peterson LLC,Closed,2025-06-28,225
+415,40,Case 415 - Filing against Choi Ltd,Open,2025-04-13,219
+416,163,Case 416 - vs Ruiz-Massey,Pending,2025-07-13,222
+417,135,Case 417 - Dispute with Davies LLC,Closed,2026-08-30,216
+418,223,Case 418 - vs Gibson PLC,Open,2025-08-02,244
+419,245,Case 419 - Filing against Wilson LLC,Closed,2024-07-21,224
+420,54,Case 420 - Filing against Montes-Scott,Closed,2024-11-21,212
+421,21,Case 421 - vs Jefferson-Ballard,Open,2026-03-27,231
+422,62,Case 422 - Dispute with Holland LLC,Open,2024-08-26,212
+423,93,Case 423 - Dispute with Smith-Ho,Closed,2025-03-13,215
+424,154,Case 424 - Dispute with Ramos Inc,Closed,2025-07-18,218
+425,237,"Case 425 - Filing against Padilla, Henderson and Gilmore",Open,2024-06-18,203
+426,175,Case 426 - Dispute with Moreno and Sons,Pending,2025-01-05,240
+427,121,"Case 427 - vs Mitchell, Perez and Smith",Pending,2024-11-10,203
+428,234,Case 428 - Filing against Soto-Haley,Open,2024-06-29,246
+429,95,Case 429 - vs Savage LLC,Pending,2025-12-19,243
+430,218,"Case 430 - vs Johnson, Mclaughlin and Maxwell",Closed,2024-06-03,217
+431,152,Case 431 - vs Anderson and Sons,Open,2025-05-29,218
+432,14,Case 432 - Filing against Allen-Juarez,Pending,2024-10-22,216
+433,114,Case 433 - Dispute with Castro Inc,Open,2025-05-10,210
+434,51,"Case 434 - Dispute with Tyler, Brown and Morris",Pending,2026-02-15,248
+435,84,"Case 435 - Dispute with Saunders, Cook and Rodriguez",Open,2023-12-28,201
+436,118,Case 436 - vs Esparza and Sons,Pending,2024-02-16,224
+437,91,"Case 437 - Filing against Lee, Castaneda and Lucas",Pending,2025-08-31,202
+438,225,Case 438 - Dispute with Brock-Cohen,Pending,2024-12-26,231
+439,238,Case 439 - Filing against Graves-Nelson,Pending,2023-09-11,248
+440,60,Case 440 - Filing against Moore Group,Open,2026-06-06,245
+441,129,Case 441 - vs Reyes-Robinson,Open,2025-01-20,247
+442,172,"Case 442 - Dispute with Abbott, White and Wood",Closed,2024-10-10,202
+443,169,"Case 443 - vs Reed, Patel and Adams",Open,2025-11-30,205
+444,219,Case 444 - Dispute with Brown Group,Closed,2025-05-29,216
+445,173,Case 445 - Dispute with Wagner PLC,Closed,2025-04-08,227
+446,81,"Case 446 - vs Howard, Barnes and Morgan",Open,2026-08-12,226
+447,212,Case 447 - Dispute with Wallace LLC,Pending,2026-02-11,244
+448,6,Case 448 - vs Vaughn LLC,Closed,2024-08-27,222
+449,80,Case 449 - Dispute with Taylor LLC,Pending,2025-12-09,208
+450,136,Case 450 - Filing against Walker-Mahoney,Open,2023-12-10,210
+451,126,Case 451 - Filing against Chang LLC,Pending,2024-03-12,249
+452,105,"Case 452 - vs Moore, Mcclain and Cruz",Open,2025-09-01,214
+453,213,"Case 453 - Dispute with Jones, Turner and Chambers",Open,2024-10-10,202
+454,82,"Case 454 - Filing against Maxwell, Peterson and Evans",Open,2024-03-05,243
+455,140,"Case 455 - Filing against Young, Russell and Jones",Closed,2024-11-12,205
+456,79,Case 456 - vs Howell-Nichols,Pending,2026-06-06,214
+457,39,Case 457 - Filing against Collins-Davis,Open,2024-05-24,211
+458,168,Case 458 - Filing against Wells Ltd,Open,2024-02-11,211
+459,68,"Case 459 - Filing against Santiago, Brady and Jones",Closed,2025-12-27,248
+460,179,Case 460 - Filing against Jacobs and Sons,Open,2023-09-28,242
+461,224,"Case 461 - Dispute with Martinez, Ramos and Washington",Open,2024-05-16,219
+462,97,Case 462 - Dispute with Harris and Sons,Pending,2023-10-20,241
+463,169,"Case 463 - Filing against Hale, Phelps and Beck",Pending,2024-09-07,249
+464,57,"Case 464 - Filing against Jackson, Norman and Robinson",Closed,2025-11-26,231
+465,28,Case 465 - Dispute with Chapman-Moore,Closed,2024-08-25,220
+466,77,Case 466 - Dispute with Martin-Ramos,Closed,2024-12-03,247
+467,249,Case 467 - Filing against Ruiz-Romero,Open,2025-07-13,208
+468,243,Case 468 - Filing against Tate-Andrews,Closed,2026-02-15,224
+469,113,Case 469 - Filing against Harris LLC,Pending,2024-01-19,205
+470,151,Case 470 - vs Mendoza Inc,Open,2025-08-15,208
+471,7,Case 471 - vs Clarke-Kennedy,Closed,2025-06-13,236
+472,46,Case 472 - Dispute with Anderson LLC,Open,2026-02-17,215
+473,46,"Case 473 - Dispute with Hobbs, Montgomery and Curtis",Pending,2026-07-24,209
+474,90,"Case 474 - vs Hudson, Johnson and Thompson",Closed,2024-05-20,250
+475,221,Case 475 - vs Pitts Inc,Open,2023-10-22,209
+476,180,"Case 476 - Dispute with Hernandez, Barnett and Wilson",Closed,2024-12-16,238
+477,200,"Case 477 - Dispute with Padilla, Cooke and Deleon",Closed,2025-02-18,239
+478,138,Case 478 - Filing against Newman-Johnson,Open,2025-02-24,229
+479,244,Case 479 - Dispute with Jenkins-Stein,Open,2024-02-14,240
+480,12,"Case 480 - Dispute with Garcia, Juarez and Torres",Open,2024-03-03,227
+481,45,Case 481 - vs Osborne-Adams,Pending,2025-02-14,239
+482,141,Case 482 - vs Clark-Jackson,Pending,2024-10-01,231
+483,57,Case 483 - Filing against Lewis-Parrish,Closed,2024-05-18,228
+484,35,"Case 484 - Dispute with Lawson, Green and Luna",Open,2026-05-24,231
+485,11,Case 485 - vs Norris Group,Closed,2026-02-02,201
+486,189,Case 486 - Filing against Arnold PLC,Open,2026-07-14,248
+487,162,Case 487 - Dispute with Bates-Welch,Pending,2024-11-07,229
+488,213,Case 488 - vs Winters Ltd,Open,2024-12-05,213
+489,124,Case 489 - Dispute with Ramirez Inc,Pending,2026-06-26,203
+490,142,"Case 490 - Filing against Howell, Torres and Colon",Open,2025-08-10,235
+491,219,Case 491 - vs Smith Ltd,Open,2026-09-06,225
+492,160,"Case 492 - Dispute with Burns, Thompson and Ford",Open,2026-01-02,217
+493,115,Case 493 - Dispute with Stone LLC,Open,2023-10-12,238
+494,41,"Case 494 - vs Burke, Taylor and Silva",Open,2025-02-21,243
+495,2,"Case 495 - vs Dean, Brock and Evans",Open,2026-06-19,201
+496,201,"Case 496 - vs Bradley, Mathis and Ruiz",Open,2024-12-19,247
+497,143,Case 497 - Filing against Martinez-Hart,Open,2024-09-17,211
+498,4,Case 498 - vs Williams LLC,Open,2025-03-02,245
+499,109,"Case 499 - Dispute with Washington, Tanner and Martin",Pending,2024-04-17,227
+500,143,Case 500 - Dispute with Hicks LLC,Open,2025-05-23,236
